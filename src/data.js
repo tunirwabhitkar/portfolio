@@ -7,34 +7,34 @@ import sunnyside from '/src/assets/images/sunny-side-square.webp';
 
 const projectsData = [
   {
-    title: 'IB Group Vietnam Website',
-    description: 'Web Design / Frontend Development',
+    title: 'Travel and Tourism Management System',
+    description: 'Software Engineering/System Integrationt',
     imageSrc: ibgroup,
-    link: 'https://musical-stroopwafel-1c2327.netlify.app/landing.html'
+    link: 'https://github.com/tunirwabhitkar/Travel-Management-System.git'
   },
   {
-    title: 'Memento Studio Landing Page',
+    title: 'Web Resume',
     description: 'Web Design / Frontend Development',
     imageSrc: memento,
-    link: 'https://mementostudio.netlify.app/'
+    link: 'https://tunirwabhitkar.github.io/Digital-Resume/index.html'
   },
   {
-    title: 'Real Business Accountants',
-    description: 'Web Design / Frontend Development',
+    title: 'Analyzing Selling Price of Cars',
+    description: 'Data Analysis',
     imageSrc: acc,
-    link: 'https://realbusinessaccountants.netlify.app'
+    link: 'https://github.com/tunirwabhitkar/Analyzing-selling-price-of-used-cars.git'
   },
   {
-    title: 'GoDaddy Landing Page Clone',
-    description: 'Web Design / Frontend Development',
+    title: 'Serverless Image Processing',
+    description: 'Cloud',
     imageSrc: daddy,
-    link: 'https://godaddyuiclone.netlify.app'
+    link: 'https://github.com/tunirwabhitkar/ServerlessImageProcessing.git'
   },
   {
-    title: 'Sunnyside Landing Page',
-    description: 'Web Design / Frontend Development',
+    title: 'Talk-A-Tive',
+    description: 'Full Stack Development',
     imageSrc: sunnyside,
-    link: 'https://sunnysidechallenge.netlify.app'
+    link: 'https://github.com/tunirwabhitkar/Talk-A-Tive.git'
   }
 ];
 

@@ -3,12 +3,14 @@ export default function HeadingSVG() {
     <div>
       <svg
         className="hidden sm:block sm:scale-125 xl:scale-[200%]"
-        width="20"
-        height="20"
+        width="40" // Increased size for better visibility
+        height="40" // Increased size for better visibility
         viewBox="0 0 32 16"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
+        aria-labelledby="svgTitle" // Accessibility improvement
       >
+        <title id="svgTitle">Geometric Shape</title> {/* Accessible description */}
         <path
           fillRule="evenodd"
           clipRule="evenodd"
